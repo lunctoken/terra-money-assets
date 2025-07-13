@@ -2243,5 +2243,13 @@ module.exports = {
       icon: "https://i.ibb.co.com/Kx6hv5jc/FRG-LOGO.jpg",
       decimals: 6,
     },
+    terra1mm8tdp40r2slzwqxk8jsz66ayc4zp69muxeateq37x2xquttzsaqy7275a: {
+      protocol : "Lunctoken",
+      symbol: "LTK",
+      name: "Lunctoken",
+      token: "terra1mm8tdp40r2slzwqxk8jsz66ayc4zp69muxeateq37x2xquttzsaqy7275a",
+      icon: "https://i.ibb.co/gL8fMHdF/logo-ltk-lunctoken-256x256.png",
+      decimals: 6,
+    },
   },
 };
